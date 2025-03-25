@@ -1,7 +1,7 @@
 import re
 
 # Read the artist names from the input text file
-with open('raw_names.txt', 'r') as file:
+with open('edc_artists.txt', 'r') as file:
     artist_text = file.read().strip()
 
 # Clean up the artist names (remove parentheses, "B2B" and "vs.")
@@ -28,8 +28,8 @@ for artist in artist_names:
 cleaned_artist_list = [artist for artist in cleaned_artist_list if artist]
 
 # Write the cleaned-up artist list into a new text file
-with open('cleaned_artists.txt', 'w') as output_file:
+with open('edc_cleaned_artists.txt', 'w') as output_file:
     for artist in cleaned_artist_list:
         output_file.write(artist + '\n')  # Write each artist on a new line
 
-print("Cleaned artist list has been saved to 'cleaned_artists.txt'.")
+print("Cleaned artist list has been saved to 'edc_cleaned_artists.txt'.")
