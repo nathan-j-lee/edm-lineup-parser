@@ -19,6 +19,7 @@ for artist in tqdm(artist_array, desc="Processing artists genres and tracks", nc
     if result["artists"]["items"]:
         #get first search result
         artist_id = result['artists']['items'][0]['id']
+        artist_info = result['artists']['items'][0]
         #get genres for each artist
         artist_genres = sp.artist(artist_id)['genres']
         #get top tracks for each artist
@@ -26,11 +27,13 @@ for artist in tqdm(artist_array, desc="Processing artists genres and tracks", nc
         track_list = []
         for track in top_tracks['tracks']:
             track_list.append(track["name"])
+        popularity = artist_info["popularity"]
         #store data in dict
         artist_data = {
             "name": artist,
             "genres": artist_genres,
-            "top_tracks": track_list
+            "top_tracks": track_list,
+            "popularity_score": popularity
         }
         data["artists"].append(artist_data)
     else:

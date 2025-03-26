@@ -1,682 +1,313 @@
-{
-    "artists": [
-        {
-            "name": "AC Slater",
-            "genres": [
-                "bass house",
-                "bassline",
-                "g-house",
-                "house"
-            ],
-            "top_tracks": [
-                "Fly Kicks - Wax Motif Remix",
-                "Bass Face",
-                "Lights On",
-                "Seismic",
-                "Suffocating",
-                "Connect",
-                "The Don",
-                "Crave The Bassline",
-                "Bass Inside",
-                "Bitches Over Boys"
-            ]
-        },
-        {
-            "name": "ACRAZE",
-            "genres": [
-                "tech house"
-            ],
-            "top_tracks": [
-                "Do It To It",
-                "Unholy (feat. Kim Petras) - ACRAZE Remix",
-                "Do It To It - Ti\u00ebsto Remix",
-                "Believe (feat. Goodboys)",
-                "Funky Town",
-                "Take Me Away",
-                "The Otherside (feat. Paige Cavell)",
-                "Heard It Like This",
-                "Bandit - Club Mix",
-                "Take Ya B"
-            ]
-        },
-        {
-            "name": "Andruss",
-            "genres": [
-                "latin house",
-                "tech house",
-                "tribal house"
-            ],
-            "top_tracks": [
-                "Frikitona",
-                "Dame M\u00e1s (Gasolina)",
-                "Pegao",
-                "PAPI",
-                "La Musa - Andruss Remix",
-                "Right Back",
-                "Toma Que Toma",
-                "Tranquilao",
-                "Take Five",
-                "Frikitona - Odd Mob Remix"
-            ]
-        },
-        {
-            "name": "Audien",
-            "genres": [
-                "edm",
-                "progressive house"
-            ],
-            "top_tracks": [
-                "Bittersweet",
-                "Kill The Lights (with Nile Rodgers) - Audien Remix",
-                "Wish It Was You",
-                "One Last Dance",
-                "Colors - Audien Remix",
-                "Drifting Away",
-                "Living in Color",
-                "Pompeii - Audien Remix",
-                "Cold",
-                "Learn To Love Again"
-            ]
-        },
-        {
-            "name": "BOLO",
-            "genres": [
-                "latin house"
-            ],
-            "top_tracks": [
-                "El Techno",
-                "Pa Arriba",
-                "Sigo Extra\u00f1ando",
-                "Provenza",
-                "Tuku Tu",
-                "Dale Don Dale",
-                "La Culebra",
-                "Te Ves Buena",
-                "Orale",
-                "EL DON - Bolo The DJ Remix"
-            ]
-        },
-        {
-            "name": "deadmau5",
-            "genres": [
-                "edm",
-                "progressive house",
-                "dubstep"
-            ],
-            "top_tracks": [
-                "Escape (feat. Hayla)",
-                "Ghosts 'n' Stuff - Extended Mix",
-                "I Remember - John Summit Remix",
-                "The Veldt - Radio Edit",
-                "The Veldt Cinema - BYNX Edit",
-                "The Longest Road - deadmau5 Remix Edit",
-                "I Remember - Vocal Mix",
-                "Escape - John Summit Remix",
-                "Strobe",
-                "Professional Griefers - Vocal Mix"
-            ]
-        },
-        {
-            "name": "Deeper Purpose",
-            "genres": [
-                "tech house",
-                "house"
-            ],
-            "top_tracks": [
-                "Up N' Down",
-                "Party Diva",
-                "Come Back to Me",
-                "Elevate",
-                "Disco Bus",
-                "The Stutter",
-                "Freak - Deeper Purpose & Buogo Remix",
-                "Hoochie Mama",
-                "That Sound",
-                "One By One"
-            ]
-        },
-        {
-            "name": "Dr. Fresch",
-            "genres": [
-                "g-house",
-                "bass house"
-            ],
-            "top_tracks": [
-                "Gangsta Gangsta",
-                "Take A Step Back",
-                "Armageddon",
-                "Feedback",
-                "Bricks",
-                "STYLEZ",
-                "Timeless",
-                "Banga",
-                "Gangsta Gangsta - Slowed & Reverbed",
-                "Let's Go"
-            ]
-        },
-        {
-            "name": "Duke Dumont",
-            "genres": [
-                "house"
-            ],
-            "top_tracks": [
-                "Ocean Drive",
-                "I Got U",
-                "Something On My Mind",
-                "Won't Look Back",
-                "Ain't Giving Up",
-                "The Power",
-                "Red Light Green Light - For Club Play Only, Pt. 6",
-                "Need U (100%) (feat. A*M*E) - Radio Edit",
-                "Need U (100%) (feat. A*M*E)",
-                "The Giver (Reprise)"
-            ]
-        },
-        {
-            "name": "Gene Farris",
-            "genres": [
-                "tech house",
-                "chicago house"
-            ],
-            "top_tracks": [
-                "It\u2019s Time (feat. Gene Farris)",
-                "Spirit of House",
-                "Go Deep",
-                "Bass Go - Biscits Remix",
-                "R U",
-                "My Man",
-                "The Payoff",
-                "Euphoria",
-                "I Can\u2019t Go For That",
-                "Mesmerised"
-            ]
-        },
-        {
-            "name": "Habstrakt",
-            "genres": [
-                "bass house",
-                "g-house",
-                "dubstep",
-                "bassline"
-            ],
-            "top_tracks": [
-                "Chicken Soup",
-                "Outer Space",
-                "Realise",
-                "ZERO200",
-                "The One - NGHTMRE Remix",
-                "Show Me",
-                "Baby",
-                "Alone",
-                "Eternity",
-                "Libre"
-            ]
-        },
-        {
-            "name": "HON\u00dc",
-            "genres": [
-                "bass house"
-            ],
-            "top_tracks": [
-                "Maui Wowwie",
-                "Hello",
-                "Promise Break",
-                "Walk Right In",
-                "Closer",
-                "Got Funk?",
-                "WOAH (feat. RegularAssRandy)",
-                "Steam Rollin'",
-                "Think About",
-                "Hypnotism"
-            ]
-        },
-        {
-            "name": "Jackie Hollander",
-            "genres": [
-                "tech house"
-            ],
-            "top_tracks": [
-                "I Look Good",
-                "All My Friends Are Hot",
-                "My Power",
-                "The Life",
-                "Pass You By",
-                "Step Into Your Mind",
-                "The Afterparty - Loco & Jam Remix",
-                "All My Friends Are Hot - Weska Remix",
-                "The Afterparty",
-                "Elusive"
-            ]
-        },
-        {
-            "name": "Jake Silva",
-            "genres": [
-                "latin house"
-            ],
-            "top_tracks": [
-                "Feels Right",
-                "Dance",
-                "Me, Myself, and I",
-                "Bass In My Face",
-                "Desire",
-                "Disconnection - Radio Edit",
-                "Play Pretend - Radio Edit",
-                "Feels Right (VIP Remix) - Radio Edit",
-                "New Phone Who Dis",
-                "Some More"
-            ]
-        },
-        {
-            "name": "Joshwa",
-            "genres": [
-                "tech house",
-                "latin house",
-                "house"
-            ],
-            "top_tracks": [
-                "My Humps",
-                "Gravity",
-                "Magalenha",
-                "Mercy",
-                "Get Stupid",
-                "Say My Name",
-                "Let The Bassline",
-                "Slow Down",
-                "(This Is A) Warning",
-                "Papi"
-            ]
-        },
-        {
-            "name": "JSTJR",
-            "genres": [
-                "moombahton",
-                "bass house"
-            ],
-            "top_tracks": [
-                "I Hate You",
-                "Never Stay High",
-                "Fever",
-                "Getting Started",
-                "Believe",
-                "I Wanna",
-                "Techno Girl",
-                "Kick Drum",
-                "Arriba",
-                "RAVE"
-            ]
-        },
-        {
-            "name": "Lee Foss",
-            "genres": [
-                "tech house",
-                "house"
-            ],
-            "top_tracks": [
-                "My Humps",
-                "To Be Real",
-                "1, 2 Step (Supersonic)",
-                "Summertime Chi",
-                "Electricity",
-                "Lies, Deception, And Fantasy",
-                "Only The Gods (feat. Anabel Englund)",
-                "My Humps - Radio Edit",
-                "Name of Love",
-                "My Humps - Detlef Remix"
-            ]
-        },
-        {
-            "name": "Leisan",
-            "genres": [
-                "tech house"
-            ],
-            "top_tracks": [
-                "Rover",
-                "Pappia",
-                "Sensations",
-                "Six Floor",
-                "Naked",
-                "Funk You Want",
-                "Ole Ole",
-                "Don't Break",
-                "Naked - Extended Mix",
-                "People"
-            ]
-        },
-        {
-            "name": "Mark Knight",
-            "genres": [
-                "tech house",
-                "house",
-                "disco house",
-                "funky house",
-                "progressive house"
-            ],
-            "top_tracks": [
-                "My Feelings For You - Mark Knight Remix",
-                "The Music Began To Play",
-                "You Got The Love (Mark Knight Remix) / One",
-                "Man With The Red Face - Radio Edit",
-                "All 4 Love (feat. Tasty Lopez)",
-                "Move On Up (Mark Knight Remix)",
-                "You Take Me Higher",
-                "Lady (Hear Me Tonight)",
-                "Yebisah",
-                "Fighting Love"
-            ]
-        },
-        {
-            "name": "MPH",
-            "genres": [
-                "uk garage",
-                "bassline",
-                "rally house",
-                "bass house"
-            ],
-            "top_tracks": [
-                "Hold On",
-                "Lights On",
-                "GOOD 4 U",
-                "Nova",
-                "One Sixty",
-                "Rush",
-                "Tremble (ft. Kim English) - MPH Remix",
-                "My Mind",
-                "Funk Master",
-                "Show Me"
-            ]
-        },
-        {
-            "name": "Nostalgix",
-            "genres": [
-                "bass house",
-                "g-house",
-                "bassline"
-            ],
-            "top_tracks": [
-                "Power (feat. Bipolar Sunshine)",
-                "Need You",
-                "Lockdown",
-                "Ghost (feat. Nostalgix)",
-                "Show Me Love",
-                "I AM A GOD",
-                "Supah Fly",
-                "WAR",
-                "Look At Me",
-                "Don\u2019t Keep Me Waiting (feat. Mila Falls)"
-            ]
-        },
-        {
-            "name": "Odd Mob",
-            "genres": [
-                "tech house",
-                "bass house"
-            ],
-            "top_tracks": [
-                "Get Busy - Odd Mob Club Mix",
-                "palm of my hands - Odd Mob Remix",
-                "VIRUS - Odd Mob Remix",
-                "Losing Control",
-                "Push The Tempo - Odd Mob Remix",
-                "Lithium",
-                "All Day, All Night",
-                "Bread (Odd Mob Remix)",
-                "Vertigo (feat. Ed Graves)",
-                "Saving Up - Odd Mob Remix"
-            ]
-        },
-        {
-            "name": "Panteros666",
-            "genres": [
-                "hard house",
-                "eurodance",
-                "hypertechno"
-            ],
-            "top_tracks": [
-                "Pow",
-                "Chaotic NRG",
-                "Cyberlink 2XL",
-                "Let UwU Go",
-                "Da Kool",
-                "Nightride / Overdrive",
-                "Fire",
-                "Atomic Pulse",
-                "Ultra Ray",
-                "Meteociel - Dirpix Remix"
-            ]
-        },
-        {
-            "name": "Pickle",
-            "genres": [
-                "tech house",
-                "bass house"
-            ],
-            "top_tracks": [
-                "Kick The Nation",
-                "Crank That",
-                "Drum Machine",
-                "On The Drums",
-                "Body Heat",
-                "Stay Together (Baby Baby)",
-                "Body Work",
-                "Get Silly",
-                "Runny Nose",
-                "Stompin'"
-            ]
-        },
-        {
-            "name": "Pocket",
-            "genres": [
-                "stutter house",
-                "uk garage"
-            ],
-            "top_tracks": [
-                "80HD",
-                "Money",
-                "Sapphire",
-                "U (feat. BRONZE AVERY)",
-                "Aquarium",
-                "Wait For Me",
-                "Beg for You (feat. Rina Sawayama) - Pocket Remix",
-                "Another Night In London (feat. Gbnga)",
-                "Evergreen (feat. KLOE)",
-                "Give Yourself to Somebody"
-            ]
-        },
-        {
-            "name": "Roger Sanchez",
-            "genres": [
-                "disco house",
-                "tribal house"
-            ],
-            "top_tracks": [
-                "Another Chance - Radio Edit",
-                "Go Again",
-                "Again",
-                "Another Chance",
-                "Another Chance",
-                "Make You Mine",
-                "Again - Roger\u2019s 12 Inch Mix",
-                "Again - Edit",
-                "Dream On Me - Roger Sanchez Remix",
-                "Alma Roja - DJ Chus Remix"
-            ]
-        },
-        {
-            "name": "San Pacho",
-            "genres": [
-                "latin house",
-                "tech house",
-                "bass house",
-                "g-house",
-                "house"
-            ],
-            "top_tracks": [
-                "Trompeta",
-                "Horny",
-                "Amor",
-                "Voy",
-                "Playboy",
-                "La Pasion",
-                "Tequila",
-                "Taka",
-                "No Guest List",
-                "Cha Cha Cha"
-            ]
-        },
-        {
-            "name": "Ship Wrek",
-            "genres": [
-                "stutter house",
-                "bass house"
-            ],
-            "top_tracks": [
-                "The Fall",
-                "The Function",
-                "Peace of Mind",
-                "Need It",
-                "Where Do I Belong?",
-                "Only A Fool (with Pink Sweat$)",
-                "F*CK THAT",
-                "Silent",
-                "Stimulate",
-                "Jerk It Out"
-            ]
-        },
-        {
-            "name": "Tita Lau",
-            "genres": [
-                "tech house"
-            ],
-            "top_tracks": [
-                "Disconnected",
-                "One Of A Kind",
-                "Vibrate",
-                "I Wanna Be U",
-                "On The Ground",
-                "The Sequel",
-                "I Can't Take No More",
-                "B2B",
-                "What Is Real",
-                "To L.A"
-            ]
-        },
-        {
-            "name": "Valentino Khan",
-            "genres": [
-                "bass house",
-                "moombahton",
-                "g-house"
-            ],
-            "top_tracks": [
-                "Deep Down Low",
-                "Pump",
-                "Move It",
-                "Anything",
-                "Better",
-                "Your Body",
-                "Swish Swish - Valentino Khan Remix",
-                "Lick It",
-                "Pony",
-                "Freakquency"
-            ]
-        },
-        {
-            "name": "VOID",
-            "genres": [
-                "tech house",
-                "hip house"
-            ],
-            "top_tracks": [
-                "X",
-                "TBIM",
-                "BS",
-                "Come Tip Her",
-                "Type Shi",
-                "Baddiez",
-                "Late Night",
-                "Eviljordan",
-                "Come Tip Her - Extended Mix",
-                "TUKATU - Original Mix"
-            ]
-        },
-        {
-            "name": "Walker & Royce",
-            "genres": [
-                "tech house",
-                "bass house",
-                "house"
-            ],
-            "top_tracks": [
-                "Could Heaven Ever Be Like This - Walker & Royce and Chris Lorenzo Remix",
-                "Jetsetter",
-                "Diamond Therapy",
-                "Run From Me",
-                "I Don't Remember",
-                "Stop Time",
-                "Not About You",
-                "Motivashun",
-                "Rave Grave",
-                "Role Models (feat. OnCue)"
-            ]
-        },
-        {
-            "name": "VNSSA",
-            "genres": [
-                "tech house",
-                "bass house"
-            ],
-            "top_tracks": [
-                "One Pill",
-                "I Don't Remember",
-                "Rave Grave",
-                "WORD",
-                "Grindhouse",
-                "Gone - VNSSA Remix",
-                "The Biznes",
-                "These Notes In This Order - VNSSA Remix",
-                "Skin",
-                "WORD - Chris Lorenzo Remix"
-            ]
-        },
-        {
-            "name": "Wax Motif",
-            "genres": [
-                "bass house",
-                "g-house",
-                "tech house"
-            ],
-            "top_tracks": [
-                "WET",
-                "See In Color",
-                "Fly Kicks - Wax Motif Remix",
-                "Choose Violence",
-                "On The Low",
-                "Issa Vibe",
-                "Skank N Flex (with Scrufizzer)",
-                "Lo Que Soy",
-                "Keep Raving",
-                "Bump Bump Bump (Bom Bom)"
-            ]
-        },
-        {
-            "name": "Westend",
-            "genres": [
-                "tech house",
-                "latin house",
-                "house"
-            ],
-            "top_tracks": [
-                "Push To Start (feat. No/Me)",
-                "Aguila (feat. Cumbiafrica)",
-                "Drum Death",
-                "Get This Party Started",
-                "Let Me Take You",
-                "Rhythm Machine",
-                "Love Spell",
-                "Maracuya",
-                "Lovers In A Past Life (with Rag'n'Bone Man) - Westend Remix",
-                "Dive In (feat. Notelle)"
-            ]
-        }
-    ]
-}
+[
+    {
+        "name": "Illenium",
+        "genres": [
+            "melodic bass",
+            "future bass",
+            "edm"
+        ],
+        "top_tracks": [
+            "All That Really Matters",
+            "Takeaway",
+            "Good Things Fall Apart (with Jon Bellion)",
+            "Feel Good (with Daya)",
+            "Don't Let Me Down - Illenium Remix",
+            "Crawl Outta Love",
+            "Fractures",
+            "Feel Something (With I Prevail)",
+            "In Your Arms (with X Ambassadors)",
+            "Eyes Wide Shut"
+        ],
+        "popularity_score": 71
+    },
+    {
+        "name": "Excision",
+        "genres": [
+            "dubstep",
+            "riddim",
+            "deathstep",
+            "edm",
+            "dub",
+            "melodic bass",
+            "bass music"
+        ],
+        "top_tracks": [
+            "Feel Something (With I Prevail)",
+            "Zombie (feat. Valerie Broussard)",
+            "Gold (Stupid Love)",
+            "Rapid Fire",
+            "Another Me (with Dylan Matthew)",
+            "Don't Look Down (Hold On)",
+            "Name Drop",
+            "Titans",
+            "Rumble",
+            "Hoist The Colours - Excision & Sullivan King Remix"
+        ],
+        "popularity_score": 60
+    },
+    {
+        "name": "Seven Lions",
+        "genres": [
+            "melodic bass",
+            "future bass",
+            "edm",
+            "chillstep",
+            "dubstep",
+            "progressive trance"
+        ],
+        "top_tracks": [
+            "Strangers",
+            "First Time (feat. Dylan Matthew)",
+            "Not Even Love",
+            "Need Your Love (with Noah Kahan)",
+            "Rush Over Me (feat. HALIENE)",
+            "Pantheon II",
+            "Another Me (with Dylan Matthew)",
+            "Light In The Dark - Cyclops Remix",
+            "Freesol",
+            "I'll Wait For You"
+        ],
+        "popularity_score": 60
+    },
+    {
+        "name": "Wooli",
+        "genres": [
+            "melodic bass",
+            "dubstep",
+            "riddim",
+            "edm",
+            "deathstep",
+            "future bass",
+            "bass music"
+        ],
+        "top_tracks": [
+            "Lock In",
+            "Zombie (feat. Valerie Broussard)",
+            "Dopamine",
+            "Hallelujah",
+            "Rapid Fire",
+            "On Repeat",
+            "Another Me (with Dylan Matthew)",
+            "Light In The Dark - Cyclops Remix",
+            "Island (feat. Nevve)",
+            "Into Pieces - Wooli x Grabbitz Remix"
+        ],
+        "popularity_score": 58
+    },
+    {
+        "name": "Said The Sky",
+        "genres": [
+            "melodic bass",
+            "future bass",
+            "edm",
+            "chillstep"
+        ],
+        "top_tracks": [
+            "Rush Over Me",
+            "Good Things Fall Apart vs. Sad Songs (With Said The Sky feat. Annika Wells)",
+            "Love Let Me Go",
+            "Where'd U Go",
+            "Walk Me Home",
+            "Other Side",
+            "Potions",
+            "In The End",
+            "All I Got",
+            "Sad Songs (with Said The Sky & Annika Wells)"
+        ],
+        "popularity_score": 56
+    },
+    {
+        "name": "Kai Wachi",
+        "genres": [
+            "dubstep",
+            "deathstep",
+            "riddim",
+            "melodic bass",
+            "edm",
+            "bass music"
+        ],
+        "top_tracks": [
+            "Hollow",
+            "Hollow - L\u00f8's Version",
+            "Drown",
+            "Happier By Now",
+            "Run",
+            "Better Off Alone",
+            "F.Y.U.",
+            "Hollow - Crankdat Remix",
+            "Uncaged",
+            "Over My Head"
+        ],
+        "popularity_score": 54
+    },
+    {
+        "name": "William Black",
+        "genres": [
+            "melodic bass",
+            "future bass",
+            "edm"
+        ],
+        "top_tracks": [
+            "Back To U",
+            "Wish I Could Forget - William Black Remix",
+            "Deep End",
+            "Keep U Warm (ft. Jordan Shaw)",
+            "Broken",
+            "Butterflies",
+            "Deep Blue",
+            "Take Me",
+            "Would You Even Know",
+            "All Falls Down"
+        ],
+        "popularity_score": 54
+    },
+    {
+        "name": "Sabai",
+        "genres": [
+            "melodic bass",
+            "future bass",
+            "edm"
+        ],
+        "top_tracks": [
+            "Million Days",
+            "North Star",
+            "Scared",
+            "Memories",
+            "Daydream",
+            "Broken Glass",
+            "Save You",
+            "Me + You",
+            "I Miss You",
+            "Million Days - Acoustic"
+        ],
+        "popularity_score": 53
+    },
+    {
+        "name": "HALIENE",
+        "genres": [
+            "melodic bass",
+            "trance",
+            "future bass",
+            "edm"
+        ],
+        "top_tracks": [
+            "Rush Over Me (feat. HALIENE)",
+            "Bring Me To Life",
+            "Saving Light",
+            "Oceans & Galaxies",
+            "Reach You - Zack Martino & Matt Steffanina Remix",
+            "In My Mind",
+            "Don't Wanna Fall",
+            "Erase You",
+            "Reach You",
+            "Heaven - Million Miles Rework"
+        ],
+        "popularity_score": 52
+    },
+    {
+        "name": "Blanke",
+        "genres": [
+            "melodic bass",
+            "future bass",
+            "dubstep",
+            "edm"
+        ],
+        "top_tracks": [
+            "Polarised",
+            "Laserbeam - \u00c6ON:MODE Remix",
+            "Death Rattle",
+            "Heaven",
+            "Above the Water",
+            "Colors (with Eyelar)",
+            "Everywhere, Nowhere",
+            "Gorgeous (with Blanke & Bipolar Sunshine)",
+            "One More Day (with Chandler Leighton)",
+            "The Machines"
+        ],
+        "popularity_score": 50
+    },
+    {
+        "name": "Jessica Audiffred",
+        "genres": [
+            "dubstep",
+            "riddim",
+            "deathstep",
+            "melodic bass",
+            "bass music"
+        ],
+        "top_tracks": [
+            "Around The World (La La La)",
+            "Don't Speak",
+            "You Found Me",
+            "NO FEAR",
+            "Bigger Than Bad",
+            "Mess",
+            "Rave On",
+            "HERO",
+            "Birthday",
+            "Rise"
+        ],
+        "popularity_score": 47
+    },
+    {
+        "name": "With L\u00f8ve",
+        "genres": [
+            "melodic bass",
+            "future bass"
+        ],
+        "top_tracks": [
+            "I Need Ya",
+            "Kids Again",
+            "Falling For You",
+            "Me + You - With L\u00f8ve Remix",
+            "Hydroplane (Remix)",
+            "I Won't Miss You Forever",
+            "So Long",
+            "Too Late",
+            "Never Going Home",
+            "Reject"
+        ],
+        "popularity_score": 34
+    },
+    {
+        "name": "Taylor Kade",
+        "genres": [
+            "melodic bass",
+            "future bass"
+        ],
+        "top_tracks": [
+            "Never Been Done Before - Taylor Kade Remix",
+            "Better This Way",
+            "Love You Like That",
+            "Hurt No More - Taylor Kade Remix",
+            "Off to the Races - Taylor Kade Remix",
+            "Want U Back",
+            "Love You Like That - Xavi Remix",
+            "Rock Bottom",
+            "Lonely",
+            "Up Until The Light"
+        ],
+        "popularity_score": 31
+    },
+    {
+        "name": "Rossy",
+        "genres": [
+            "edm trap",
+            "future bass",
+            "melodic bass"
+        ],
+        "top_tracks": [
+            "KARMA (With Jazz Cartier)",
+            "HOLY",
+            "RUSH",
+            "HEAVENS DOOR",
+            "DON'T SAY - Hex Cougar Remix",
+            "SHOWOFF",
+            "DEITY",
+            "DEITY - Lightyear Remix",
+            "STAR (feat. Princess Superstar)",
+            "LYRA"
+        ],
+        "popularity_score": 29
+    }
+]

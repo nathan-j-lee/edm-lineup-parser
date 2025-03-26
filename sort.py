@@ -18,13 +18,17 @@ for artist in data.get("artists", []):
         # genres already grabbed
         #grab top tracks
         top_tracks = artist.get("top_tracks")
+        popularity = artist.get("popularity_score")
         artist_dict = {
             "name": name,
             "genres": genres,
-            "top_tracks": top_tracks
+            "top_tracks": top_tracks,
+            "popularity_score": popularity
         }
         matching_artists["artists"].append(artist_dict)
 
+# Sort artists by popularity (highest first)
+sorted_artists = sorted(matching_artists["artists"], key=lambda x: x["popularity_score"], reverse=True)
 
 with open("sorted_output.json", 'w') as file:
-    json.dump(matching_artists, file, indent=4)
+    json.dump(sorted_artists, file, indent=4)

@@ -17,7 +17,8 @@
                 "Midnight",
                 "Chant",
                 "Mind Still (feat. blythe) - 1991 Remix"
-            ]
+            ],
+            "popularity_score": 58
         },
         {
             "name": "999999999",
@@ -38,7 +39,8 @@
                 "X0003000X",
                 "About Last Night (feat. Shmeep) - 999999999 Remix",
                 "Purple Widow - 999999999 Remix"
-            ]
+            ],
+            "popularity_score": 42
         },
         {
             "name": "AC Slater",
@@ -56,10 +58,11 @@
                 "Suffocating",
                 "Connect",
                 "The Don",
-                "Crave The Bassline",
                 "Bass Inside",
+                "Crave The Bassline",
                 "Bitches Over Boys"
-            ]
+            ],
+            "popularity_score": 49
         },
         {
             "name": "ACRAZE",
@@ -73,29 +76,32 @@
                 "Believe (feat. Goodboys)",
                 "Funky Town",
                 "Take Me Away",
+                "Rock My World",
                 "The Otherside (feat. Paige Cavell)",
                 "Heard It Like This",
-                "Bandit - Club Mix",
-                "Take Ya B"
-            ]
+                "Bandit - Club Mix"
+            ],
+            "popularity_score": 64
         },
         {
             "name": "ALLEYCVT",
             "genres": [
-                "dubstep"
+                "dubstep",
+                "edm"
             ],
             "top_tracks": [
                 "ONE FOR YOU",
                 "BACK2LIFE",
+                "STRANGERS",
                 "STRATOSPHERE",
                 "FEEL IT",
                 "F______ LOVE YOU",
                 "THROW IT DOWN",
                 "ELECTRIC SHOCK",
                 "REMEMBER ME",
-                "IN THE ALLEY",
                 "RIGHT BACK"
-            ]
+            ],
+            "popularity_score": 53
         },
         {
             "name": "Aly & Fila",
@@ -111,17 +117,17 @@
                 "For All Time",
                 "Somebody Loves You",
                 "Perfect Love",
-                "Count On Me (Mixed)",
                 "Nubia",
-                "The Unknown (Mixed)"
-            ]
+                "Count On Me (Mixed)",
+                "Without You (FYH439) [CLASSIC SELECTION]"
+            ],
+            "popularity_score": 48
         },
         {
             "name": "Andruss",
             "genres": [
                 "latin house",
-                "tech house",
-                "tribal house"
+                "tech house"
             ],
             "top_tracks": [
                 "Frikitona",
@@ -134,7 +140,8 @@
                 "Tranquilao",
                 "Take Five",
                 "Frikitona - Odd Mob Remix"
-            ]
+            ],
+            "popularity_score": 50
         },
         {
             "name": "Astrix",
@@ -154,7 +161,8 @@
                 "He.art (Omiki & Terra Remix)",
                 "Sahara - Original mix",
                 "Valley of Stevie"
-            ]
+            ],
+            "popularity_score": 54
         },
         {
             "name": "Audien",
@@ -173,7 +181,8 @@
                 "Pompeii - Audien Remix",
                 "Cold",
                 "Learn To Love Again"
-            ]
+            ],
+            "popularity_score": 56
         },
         {
             "name": "b.",
@@ -189,7 +198,8 @@
                 "Strange Clouds (feat. Lil Wayne)",
                 "Both of Us (feat. Taylor Swift)",
                 "We Still in this Bitch (feat. T.I. and Juicy J)"
-            ]
+            ],
+            "popularity_score": 73
         },
         {
             "name": "BARELY ALIVE",
@@ -208,11 +218,12 @@
                 "Electric Lady",
                 "next to me",
                 "Send It",
-                "next to me (b-side)",
                 "Know You Better",
+                "next to me (b-side)",
                 "How We Roll",
                 "Here We Go"
-            ]
+            ],
+            "popularity_score": 49
         },
         {
             "name": "Kompany",
@@ -224,8 +235,8 @@
                 "edm"
             ],
             "top_tracks": [
-                "Set Me Free",
                 "Jackpot",
+                "Set Me Free",
                 "Never Come Back",
                 "Foul Tarnished",
                 "Feel It All",
@@ -234,7 +245,8 @@
                 "Thicc Boi Mega VIP",
                 "Brain Busta",
                 "Wicked Witch - Original Mix"
-            ]
+            ],
+            "popularity_score": 45
         },
         {
             "name": "Basstripper",
@@ -244,15 +256,16 @@
             "top_tracks": [
                 "In The City",
                 "Supersonic - Basstripper Remix",
+                "Cascade",
                 "Ghosting Your Love",
                 "Hell In High Heels (feat. Jazmine Johnson) - Basstripper Remix",
-                "Cascade",
-                "Through You",
                 "Deserted",
+                "Through You",
                 "Time To Go",
                 "In The City - Yves V Remix",
                 "Milky Way"
-            ]
+            ],
+            "popularity_score": 48
         },
         {
             "name": "Ben Nicky",
@@ -266,12 +279,13 @@
                 "Survive It",
                 "Adagio For Strings",
                 "Destination (A State of Trance 2024 Anthem) - Ben Nicky Remix",
-                "Coming On Strong - Trance Mix",
                 "Alive",
+                "Coming On Strong - Trance Mix",
                 "Thank You",
                 "DJ Turn It Up - Ben Nicky Remix",
                 "Dirty Rave"
-            ]
+            ],
+            "popularity_score": 53
         },
         {
             "name": "Darren Styles",
@@ -285,13 +299,14 @@
                 "DLMD",
                 "Switch",
                 "Us Against The World",
-                "Dance Tonight",
                 "Scars",
+                "Dance Tonight",
                 "Us Against The World (Da Tweekaz Remix)",
                 "Party Don't Stop",
-                "Outta Space",
-                "Discolights - Ultrabeat Vs. Darren Styles / Radio Edit"
-            ]
+                "Discolights - Ultrabeat Vs. Darren Styles / Radio Edit",
+                "Outta Space"
+            ],
+            "popularity_score": 58
         },
         {
             "name": "Blanke",
@@ -305,14 +320,15 @@
                 "Polarised",
                 "Laserbeam - \u00c6ON:MODE Remix",
                 "Death Rattle",
-                "Above the Water",
                 "Heaven",
+                "Above the Water",
                 "Colors (with Eyelar)",
                 "Everywhere, Nowhere",
                 "Gorgeous (with Blanke & Bipolar Sunshine)",
-                "The Machines",
-                "One More Day (with Chandler Leighton)"
-            ]
+                "One More Day (with Chandler Leighton)",
+                "The Machines"
+            ],
+            "popularity_score": 50
         },
         {
             "name": "BOLO",
@@ -323,14 +339,15 @@
                 "El Techno",
                 "Pa Arriba",
                 "Sigo Extra\u00f1ando",
-                "Provenza",
                 "Tuku Tu",
+                "Provenza",
                 "Dale Don Dale",
                 "La Culebra",
                 "Te Ves Buena",
                 "Orale",
                 "EL DON - Bolo The DJ Remix"
-            ]
+            ],
+            "popularity_score": 26
         },
         {
             "name": "Boys",
@@ -349,8 +366,9 @@
                 "4 Seasons Of Loneliness",
                 "A Song For Mama",
                 "Doin' Just Fine",
-                "Fa La La"
-            ]
+                "It's So Hard To Say Goodbye To Yesterday"
+            ],
+            "popularity_score": 69
         },
         {
             "name": "Noize",
@@ -359,14 +377,15 @@
                 "\u041e\u0431\u043b\u043e\u043c\u043a\u0438 \u0447\u0443\u0432\u0441\u0442\u0432",
                 "\u0412\u0441\u0435\u043b\u0435\u043d\u043d\u0430\u044f \u0431\u0435\u0441\u043a\u043e\u043d\u0435\u0447\u043d\u0430?",
                 "\u041b\u044e\u0434\u0438 \u0441 \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0430\u043c\u0438",
+                "\u041d\u0435 \u0432\u0441\u0435 \u0434\u043e\u043c\u0430",
+                "\u041a\u0440\u0438\u043e\u043a\u0430\u043c\u0435\u0440\u044b",
                 "\u0414\u0435\u0442\u043a\u0430, \u043f\u043e\u0441\u043b\u0443\u0448\u0430\u0439",
                 "\u0427\u0430\u0439\u043b\u0434\u0444\u0440\u0438",
-                "\u041d\u0435 \u0432\u0441\u0435 \u0434\u043e\u043c\u0430",
-                "\u0423\u0441\u0442\u0440\u043e\u0439 \u0434\u0435\u0441\u0442\u0440\u043e\u0439",
+                "\u041f\u0440\u0438\u0447\u0438\u043d\u044b \u0434\u043b\u044f \u0440\u0430\u0434\u043e\u0441\u0442\u0438",
                 "\u0412\u044b\u0434\u044b\u0445\u0430\u0439",
-                "\u041a\u0440\u0438\u043e\u043a\u0430\u043c\u0435\u0440\u044b",
-                "Yes Future!"
-            ]
+                "\u0423\u0441\u0442\u0440\u043e\u0439 \u0434\u0435\u0441\u0442\u0440\u043e\u0439"
+            ],
+            "popularity_score": 60
         },
         {
             "name": "Capochino",
@@ -380,11 +399,12 @@
                 "You Make Me Wanna",
                 "Capoz Web",
                 "Fourth Wall",
-                "COLD-BLOODED",
                 "Woke Symphony VIP",
+                "COLD-BLOODED",
                 "Turn Me The Fvck Up",
                 "Where"
-            ]
+            ],
+            "popularity_score": 37
         },
         {
             "name": "Cera",
@@ -405,7 +425,8 @@
                 "Cactus",
                 "Te Llevo para Que Me Lleves",
                 "Me Quedo Aqu\u00ed"
-            ]
+            ],
+            "popularity_score": 72
         },
         {
             "name": "Khin",
@@ -421,7 +442,8 @@
                 "Kyoe Kyar Than",
                 "Myat Thwel",
                 "Khun Arr Phyae Mi Nge"
-            ]
+            ],
+            "popularity_score": 38
         },
         {
             "name": "Charlie Sparks",
@@ -438,12 +460,13 @@
                 "Acid Donut",
                 "Hooligans",
                 "Rude Boy Selecta",
+                "Exploited",
                 "Kaizoku",
                 "Underground Sushi",
                 "Trip Tonight",
-                "Phobia",
-                "Mari Carmen (Remix)"
-            ]
+                "Phobia"
+            ],
+            "popularity_score": 41
         },
         {
             "name": "Cosmic Gate",
@@ -458,11 +481,12 @@
                 "Nothing to Hide",
                 "REFLEXION (ASOT 2023 Anthem)",
                 "Mirador",
-                "I'm On Fire (ASOT 1215) [Progressive Pick]",
-                "Trifecta",
                 "Brave",
-                "Brave - ATB's Anthem Remix"
-            ]
+                "Trifecta",
+                "Brave - ATB's Anthem Remix",
+                "I'm On Fire (ASOT 1215) [Progressive Pick]"
+            ],
+            "popularity_score": 54
         },
         {
             "name": "Culture Shock",
@@ -472,16 +496,17 @@
             ],
             "top_tracks": [
                 "Love To Give (with Billy Lockett)",
-                "Giants",
                 "Renaissance - Edit",
+                "Giants",
                 "Panic Room - Culture Shock Remix",
-                "Make It Pump",
                 "Visions",
+                "Make It Pump",
                 "REACT (feat. Ella Henderson) - Culture Shock Remix",
                 "Recombine",
                 "Rise",
                 "Lost"
-            ]
+            ],
+            "popularity_score": 52
         },
         {
             "name": "\u00c6ON:MODE",
@@ -495,11 +520,12 @@
                 "Awake",
                 "State Of Mind",
                 "Lonely",
-                "Flip It - \u00c6ON:MODE Remix",
                 "Breathe",
+                "Flip It - \u00c6ON:MODE Remix",
                 "Alchemy",
                 "Aurora"
-            ]
+            ],
+            "popularity_score": 45
         },
         {
             "name": "Da Tweekaz",
@@ -512,15 +538,16 @@
             "top_tracks": [
                 "New Beginning",
                 "I Want It All",
-                "Mingle Game Song (Round And Round)",
                 "How Far I'll Go",
                 "Queen of Kings - Da Tweekaz x Tungevaag Remix",
                 "J\u00e4germeister",
+                "Mingle Game Song (Round And Round)",
                 "Can Can (Hardstyle Mix)",
-                "Lambada (Your Love)",
                 "Toss A Coin To Your Witcher",
+                "Lambada (Your Love)",
                 "Bring Me To Life"
-            ]
+            ],
+            "popularity_score": 61
         },
         {
             "name": "Danny Avila",
@@ -538,7 +565,8 @@
                 "Notre Dame - Radio Edit",
                 "Pantheon",
                 "Take Me Back"
-            ]
+            ],
+            "popularity_score": 49
         },
         {
             "name": "Dead X",
@@ -548,16 +576,17 @@
             ],
             "top_tracks": [
                 "GHOST",
-                "POLSKA JUMPSTYLE - Dead X Remix",
                 "Echo",
+                "POLSKA JUMPSTYLE - Dead X Remix",
                 "Voyage",
                 "Body Rock",
+                "Slurring (Semperfusion Remix)",
                 "TURN THE MUSIC UP",
                 "Echo (Kreation Remix)",
-                "Slurring (Semperfusion Remix)",
                 "Wander",
                 "Riot"
-            ]
+            ],
+            "popularity_score": 31
         },
         {
             "name": "deadmau5",
@@ -577,7 +606,8 @@
                 "Escape - John Summit Remix",
                 "Strobe",
                 "Professional Griefers - Vocal Mix"
-            ]
+            ],
+            "popularity_score": 68
         },
         {
             "name": "Deborah De Luca",
@@ -597,8 +627,9 @@
                 "Devotion - Show Me Love 2023 Techno Mix - Radio Edit",
                 "Bel Mercy - Deborah De Luca Remix",
                 "Passi - Deborah De Luca Remix",
-                "I Go Out - 2020 Rework"
-            ]
+                "Nero"
+            ],
+            "popularity_score": 56
         },
         {
             "name": "Deeper Purpose",
@@ -612,12 +643,13 @@
                 "Come Back to Me",
                 "Elevate",
                 "Disco Bus",
-                "The Stutter",
                 "Freak - Deeper Purpose & Buogo Remix",
+                "The Stutter",
                 "Hoochie Mama",
                 "That Sound",
                 "One By One"
-            ]
+            ],
+            "popularity_score": 46
         },
         {
             "name": "Dimension",
@@ -636,14 +668,16 @@
                 "Angel",
                 "Rhyme Dust - Dimension Remix",
                 "Remedy (feat. TS Graye)"
-            ]
+            ],
+            "popularity_score": 62
         },
         {
             "name": "Discovery Project",
             "genres": [],
             "top_tracks": [
                 "Hush - Groove Mix"
-            ]
+            ],
+            "popularity_score": 0
         },
         {
             "name": "DJ Isaac",
@@ -664,8 +698,9 @@
                 "Bad Dreams",
                 "World Renowned",
                 "I Wanna Be A Gabber Baby - Radio Mix",
-                "Bitches"
-            ]
+                "The Realm - Spotify Version"
+            ],
+            "popularity_score": 52
         },
         {
             "name": "D\u00d8MINA",
@@ -677,7 +712,8 @@
                 "Turn Up",
                 "Touch My Body",
                 "Punch In The Face"
-            ]
+            ],
+            "popularity_score": 20
         },
         {
             "name": "Dr. Fresch",
@@ -691,12 +727,13 @@
                 "Armageddon",
                 "Feedback",
                 "Bricks",
-                "STYLEZ",
                 "Timeless",
-                "Banga",
+                "STYLEZ",
                 "Gangsta Gangsta - Slowed & Reverbed",
+                "Banga",
                 "Let's Go"
-            ]
+            ],
+            "popularity_score": 52
         },
         {
             "name": "Duke Dumont",
@@ -710,11 +747,12 @@
                 "Won't Look Back",
                 "Ain't Giving Up",
                 "The Power",
-                "Red Light Green Light - For Club Play Only, Pt. 6",
                 "Need U (100%) (feat. A*M*E) - Radio Edit",
+                "Red Light Green Light - For Club Play Only, Pt. 6",
                 "Need U (100%) (feat. A*M*E)",
                 "The Giver (Reprise)"
-            ]
+            ],
+            "popularity_score": 68
         },
         {
             "name": "Egzod",
@@ -723,14 +761,15 @@
                 "Royalty",
                 "Royalty - Wiguez & Alltair Remix",
                 "No Rival",
-                "Royalty - Super Slowed + Reverb",
                 "Royalty - Slowed + Reverb",
+                "Royalty - Super Slowed + Reverb",
                 "Don't Surrender",
-                "The Revolution",
                 "Royalty - Sped Up/Nightcore",
-                "Game Over",
-                "Lone Wolf"
-            ]
+                "The Revolution",
+                "Lone Wolf",
+                "Game Over"
+            ],
+            "popularity_score": 64
         },
         {
             "name": "Estella Boersma",
@@ -751,7 +790,8 @@
                 "Ocelot - Estella Boersma Remix",
                 "Dazed",
                 "Cerberus"
-            ]
+            ],
+            "popularity_score": 28
         },
         {
             "name": "Excision",
@@ -775,7 +815,8 @@
                 "Titans",
                 "Rumble",
                 "Hoist The Colours - Excision & Sullivan King Remix"
-            ]
+            ],
+            "popularity_score": 60
         },
         {
             "name": "FJAAK",
@@ -791,12 +832,13 @@
                 "Higher - FJAAK Remix",
                 "Don't Leave Me",
                 "Redemption",
-                "Plan of Escape",
                 "Onslaught - FJAAK Remix",
+                "Plan of Escape",
                 "Gewerbe 15",
                 "VERSION 1.3.3.1",
                 "Mechanic Love - Kittin & The Hacker Remix"
-            ]
+            ],
+            "popularity_score": 37
         },
         {
             "name": "Friction",
@@ -816,7 +858,8 @@
                 "Set Me Free",
                 "Supersonic - Basstripper Remix",
                 "Falling Down"
-            ]
+            ],
+            "popularity_score": 54
         },
         {
             "name": "Friendly Fire",
@@ -829,13 +872,14 @@
                 "Skeleton Boy",
                 "Jump in the Pool",
                 "Paris",
-                "Love Like Waves",
                 "Hurting",
+                "Love Like Waves",
                 "Hawaiian Air",
                 "Heaven Let Me In",
                 "Silhouettes",
                 "Hurting - Tensnake Remix"
-            ]
+            ],
+            "popularity_score": 41
         },
         {
             "name": "Gene Farris",
@@ -850,11 +894,12 @@
                 "Bass Go - Biscits Remix",
                 "R U",
                 "My Man",
-                "The Payoff",
                 "Euphoria",
+                "The Payoff",
                 "I Can\u2019t Go For That",
                 "Mesmerised"
-            ]
+            ],
+            "popularity_score": 37
         },
         {
             "name": "Godlands",
@@ -865,12 +910,13 @@
                 "SLEEPER",
                 "SICKO",
                 "u want me",
-                "Element",
                 "Thumper",
+                "Element",
                 "DESIRE",
                 "CASHMERE",
                 "ALL NIGHT"
-            ]
+            ],
+            "popularity_score": 33
         },
         {
             "name": "Habstrakt",
@@ -886,12 +932,13 @@
                 "Realise",
                 "ZERO200",
                 "The One - NGHTMRE Remix",
-                "Show Me",
-                "Baby",
                 "Alone",
+                "Baby",
+                "Show Me",
                 "Eternity",
                 "Libre"
-            ]
+            ],
+            "popularity_score": 51
         },
         {
             "name": "HALIENE",
@@ -909,10 +956,11 @@
                 "Reach You - Zack Martino & Matt Steffanina Remix",
                 "In My Mind",
                 "Don't Wanna Fall",
-                "Reach You",
                 "Erase You",
-                "Million Miles - Da Tweekaz Remix"
-            ]
+                "Reach You",
+                "Heaven - Million Miles Rework"
+            ],
+            "popularity_score": 52
         },
         {
             "name": "H\u00e9ctor Oaks",
@@ -923,16 +971,17 @@
             ],
             "top_tracks": [
                 "No Hay Ma\u00f1ana",
-                "Chasing Highs",
                 "WELCOME TO NINGUNA PARTE",
+                "Chasing Highs",
                 "No Hay Ma\u00f1ana - Club Mix",
+                "En La Cruz",
                 "Intro",
                 "No Darkest Night Will Shut Our light",
                 "Hole - Remix",
                 "We Met Under The Strobe Light",
-                "ESO ES G",
-                "Obliquous"
-            ]
+                "ESO ES G"
+            ],
+            "popularity_score": 35
         },
         {
             "name": "HON\u00dc",
@@ -940,8 +989,8 @@
                 "bass house"
             ],
             "top_tracks": [
-                "Maui Wowwie",
                 "Hello",
+                "Maui Wowwie",
                 "Promise Break",
                 "Walk Right In",
                 "Closer",
@@ -950,7 +999,8 @@
                 "Steam Rollin'",
                 "Think About",
                 "Hypnotism"
-            ]
+            ],
+            "popularity_score": 23
         },
         {
             "name": "Illenium",
@@ -966,11 +1016,12 @@
                 "Feel Good (with Daya)",
                 "Don't Let Me Down - Illenium Remix",
                 "Crawl Outta Love",
-                "Feel Something (With I Prevail)",
                 "Fractures",
+                "Feel Something (With I Prevail)",
                 "In Your Arms (with X Ambassadors)",
                 "Eyes Wide Shut"
-            ]
+            ],
+            "popularity_score": 71
         },
         {
             "name": "INFEKT",
@@ -987,19 +1038,21 @@
                 "We Don't Play",
                 "All Black",
                 "Das Riddim",
+                "Rewind - FuntCase Remix",
                 "Play It Twice",
                 "How We Roll",
                 "DOODLE",
-                "LOADED",
-                "CAVERNS"
-            ]
+                "LOADED"
+            ],
+            "popularity_score": 42
         },
         {
             "name": "IZNYRS",
             "genres": [],
             "top_tracks": [
                 "DANCE"
-            ]
+            ],
+            "popularity_score": 0
         },
         {
             "name": "Jackie Hollander",
@@ -1013,11 +1066,12 @@
                 "The Life",
                 "Pass You By",
                 "Step Into Your Mind",
-                "The Afterparty - Loco & Jam Remix",
                 "All My Friends Are Hot - Weska Remix",
+                "The Afterparty - Loco & Jam Remix",
                 "The Afterparty",
                 "Elusive"
-            ]
+            ],
+            "popularity_score": 40
         },
         {
             "name": "Jake Silva",
@@ -1026,8 +1080,8 @@
             ],
             "top_tracks": [
                 "Feels Right",
-                "Dance",
                 "Me, Myself, and I",
+                "Dance",
                 "Bass In My Face",
                 "Desire",
                 "Disconnection - Radio Edit",
@@ -1035,7 +1089,8 @@
                 "Feels Right (VIP Remix) - Radio Edit",
                 "New Phone Who Dis",
                 "Some More"
-            ]
+            ],
+            "popularity_score": 32
         },
         {
             "name": "Jessica Audiffred",
@@ -1057,7 +1112,8 @@
                 "HERO",
                 "Birthday",
                 "Rise"
-            ]
+            ],
+            "popularity_score": 47
         },
         {
             "name": "Jia",
@@ -1071,9 +1127,10 @@
                 "In my defense",
                 "Back",
                 "Vagina",
-                "Ethereal",
-                "I\u2019m the best, don\u2019t you forget"
-            ]
+                "I\u2019m the best, don\u2019t you forget",
+                "Ethereal"
+            ],
+            "popularity_score": 30
         },
         {
             "name": "Johnny Chay",
@@ -1091,7 +1148,8 @@
                 "Folsom Prison Blues - Live at Folsom State Prison, Folsom, CA - January 1968",
                 "I Walk the Line",
                 "(Ghost) Riders in the Sky"
-            ]
+            ],
+            "popularity_score": 76
         },
         {
             "name": "Joshwa",
@@ -1105,13 +1163,14 @@
                 "Gravity",
                 "Magalenha",
                 "Mercy",
-                "Get Stupid",
                 "Say My Name",
+                "Get Stupid",
                 "Let The Bassline",
                 "Slow Down",
                 "(This Is A) Warning",
                 "Papi"
-            ]
+            ],
+            "popularity_score": 54
         },
         {
             "name": "JSTJR",
@@ -1130,7 +1189,8 @@
                 "Kick Drum",
                 "Arriba",
                 "RAVE"
-            ]
+            ],
+            "popularity_score": 40
         },
         {
             "name": "Juelz",
@@ -1146,7 +1206,8 @@
                 "Bloody Mary",
                 "Swoosh",
                 "23 & 1"
-            ]
+            ],
+            "popularity_score": 65
         },
         {
             "name": "Justin Jay",
@@ -1155,14 +1216,15 @@
                 "Back To The Groove",
                 "Let Go",
                 "Summer Groove",
-                "Home Pt. 1",
                 "I Just Wanna Sleep",
+                "Home Pt. 1",
                 "Can't Read Your Mind",
                 "Know How",
                 "Do You Like To Party?",
-                "Stop",
-                "What Do You Want - Radio Edit"
-            ]
+                "What Do You Want - Radio Edit",
+                "Stop"
+            ],
+            "popularity_score": 48
         },
         {
             "name": "Kai Wachi",
@@ -1185,7 +1247,8 @@
                 "Hollow - Crankdat Remix",
                 "Uncaged",
                 "Over My Head"
-            ]
+            ],
+            "popularity_score": 54
         },
         {
             "name": "KIMMIC",
@@ -1201,7 +1264,8 @@
                 "Here We Go Again (feat. Shanice Griffin & David Ryan) - KIMMIC Remix",
                 "Never Leave - KIMMIC Remix",
                 "Blurred"
-            ]
+            ],
+            "popularity_score": 43
         },
         {
             "name": "Kobosil",
@@ -1214,14 +1278,15 @@
                 "Rigid - Kobosil 44 Rush Mix",
                 "Eiskalt - Short Mix",
                 "Radiance",
+                "Cryptic - Kobosil Hart Mix",
                 "Luzifer (feat. Ufo361)",
                 "Born In 1968",
                 "Kobosil",
                 "Faded Generation",
                 "Avernian",
-                "Full of Fire",
-                "Welcome To The Opera - Kobosil 44 Symbiont Mix"
-            ]
+                "Full of Fire"
+            ],
+            "popularity_score": 44
         },
         {
             "name": "Lee Foss",
@@ -1240,7 +1305,8 @@
                 "My Humps - Radio Edit",
                 "Name of Love",
                 "My Humps - Detlef Remix"
-            ]
+            ],
+            "popularity_score": 48
         },
         {
             "name": "Leisan",
@@ -1251,14 +1317,15 @@
                 "Rover",
                 "Pappia",
                 "Sensations",
-                "Six Floor",
                 "Naked",
+                "Six Floor",
                 "Funk You Want",
                 "Ole Ole",
-                "Don't Break",
                 "Naked - Extended Mix",
+                "Don't Break",
                 "People"
-            ]
+            ],
+            "popularity_score": 14
         },
         {
             "name": "Levity",
@@ -1276,7 +1343,8 @@
                 "Front to Back",
                 "Jaded",
                 "DNA (Loving You) [feat. Hannah Boleyn] [Levity Remix]"
-            ]
+            ],
+            "popularity_score": 54
         },
         {
             "name": "Loud Luxury",
@@ -1288,11 +1356,12 @@
                 "Love No More",
                 "These Nights",
                 "I'm Not Alright",
-                "Crash",
                 "Aftertaste",
+                "Crash",
                 "Sunroof - Loud Luxury Remix",
                 "Body - Dzeko Remix"
-            ]
+            ],
+            "popularity_score": 67
         },
         {
             "name": "Louis The Child",
@@ -1306,9 +1375,10 @@
                 "Little Things (with Quinn XCII & Chelsea Cutler)",
                 "Weekend",
                 "Free (with Drew Love)",
-                "Believe It - Nikita, the Wicked Remix",
-                "Fire"
-            ]
+                "Fire",
+                "Love Is Alive"
+            ],
+            "popularity_score": 59
         },
         {
             "name": "Maddix",
@@ -1330,7 +1400,8 @@
                 "90s Bitch",
                 "Open Sesame (Abracadabra) [feat. Leila K]",
                 "Activating"
-            ]
+            ],
+            "popularity_score": 67
         },
         {
             "name": "Mark Knight",
@@ -1351,8 +1422,9 @@
                 "You Take Me Higher",
                 "Lady (Hear Me Tonight)",
                 "Yebisah",
-                "Fighting Love"
-            ]
+                "Your Love - Original Club Mix"
+            ],
+            "popularity_score": 55
         },
         {
             "name": "Men\u00fc",
@@ -1370,7 +1442,8 @@
                 "Come & Go (with Marshmello)",
                 "FRIENDS",
                 "Slow Motion"
-            ]
+            ],
+            "popularity_score": 83
         },
         {
             "name": "Mish",
@@ -1388,7 +1461,8 @@
                 "\u063a\u0631\u062f\u064a \u064a\u0627 \u0631\u0648\u062d",
                 "\u0627\u0644\u0639\u0627\u0631\u0645",
                 "Surah Muhammad"
-            ]
+            ],
+            "popularity_score": 54
         },
         {
             "name": "MPH",
@@ -1409,7 +1483,8 @@
                 "My Mind",
                 "Funk Master",
                 "Show Me"
-            ]
+            ],
+            "popularity_score": 48
         },
         {
             "name": "Netsky",
@@ -1422,14 +1497,15 @@
                 "Let Me Hold You",
                 "Everybody Loves The Sunshine",
                 "California (feat. CLOVES)",
-                "Let Me Hold You - Grafix Remix",
                 "Out of Body",
+                "Let Me Hold You - Grafix Remix",
                 "Hell In High Heels (feat. Jazmine Johnson)",
-                "Here With You",
                 "Rio (feat. Digital Farm Animals)",
+                "Here With You",
                 "Hold On",
                 "Everyday - Netsky Remix"
-            ]
+            ],
+            "popularity_score": 59
         },
         {
             "name": "Nifra",
@@ -1442,14 +1518,15 @@
                 "Control Your Body - Hardwell Edit",
                 "Pull Me In",
                 "Time (feat. Sarah de Warren)",
-                "Hypnotize",
                 "Comme Un Reve",
+                "Hypnotize",
                 "Youphoria",
                 "Access Code",
                 "Humanoids",
                 "Let You Down - Nifra Remix",
                 "Passion"
-            ]
+            ],
+            "popularity_score": 44
         },
         {
             "name": "Nostalgix",
@@ -1468,8 +1545,9 @@
                 "Supah Fly",
                 "WAR",
                 "Look At Me",
-                "Don\u2019t Keep Me Waiting (feat. Mila Falls)"
-            ]
+                "Power (feat. Bipolar Sunshine) - Manila Killa Remix"
+            ],
+            "popularity_score": 39
         },
         {
             "name": "Odd Mob",
@@ -1485,10 +1563,11 @@
                 "Push The Tempo - Odd Mob Remix",
                 "Lithium",
                 "All Day, All Night",
-                "Bread (Odd Mob Remix)",
                 "Vertigo (feat. Ed Graves)",
+                "Bread (Odd Mob Remix)",
                 "Saving Up - Odd Mob Remix"
-            ]
+            ],
+            "popularity_score": 64
         },
         {
             "name": "Panteros666",
@@ -1504,11 +1583,12 @@
                 "Let UwU Go",
                 "Da Kool",
                 "Nightride / Overdrive",
+                "Twizzy",
                 "Fire",
                 "Atomic Pulse",
-                "Ultra Ray",
-                "Meteociel - Dirpix Remix"
-            ]
+                "Ultra Ray"
+            ],
+            "popularity_score": 39
         },
         {
             "name": "Paul van Dyk",
@@ -1526,8 +1606,9 @@
                 "Let Go - Single Edit",
                 "For An Angel - PvD's E-Werk Club Mix",
                 "Seven Seas / The Poem",
-                "Stay"
-            ]
+                "Shed Your Light - Radio Mix"
+            ],
+            "popularity_score": 58
         },
         {
             "name": "Pickle",
@@ -1546,7 +1627,8 @@
                 "Get Silly",
                 "Runny Nose",
                 "Stompin'"
-            ]
+            ],
+            "popularity_score": 47
         },
         {
             "name": "Pocket",
@@ -1561,11 +1643,12 @@
                 "U (feat. BRONZE AVERY)",
                 "Aquarium",
                 "Wait For Me",
+                "Evergreen (feat. KLOE)",
                 "Beg for You (feat. Rina Sawayama) - Pocket Remix",
                 "Another Night In London (feat. Gbnga)",
-                "Evergreen (feat. KLOE)",
                 "Give Yourself to Somebody"
-            ]
+            ],
+            "popularity_score": 26
         },
         {
             "name": "Pyke",
@@ -1576,36 +1659,37 @@
                 "bass music"
             ],
             "top_tracks": [
-                "STEEL CANVAS",
                 "SHATTER",
+                "STEEL CANVAS",
                 "BACK FOR MORE",
-                "Outnumbered",
+                "Style Bender",
                 "HOT DOG BUT HOLD THE DOG",
+                "Outnumbered",
                 "DANGER",
-                "CAPPIN TOY'S",
                 "CONCRETE JUNGLE",
-                "Slum Song",
-                "NY FAT"
-            ]
+                "CAPPIN TOY'S",
+                "Slum Song"
+            ],
+            "popularity_score": 26
         },
         {
             "name": "Ram & Richard Durand",
             "genres": [
-                "trance",
-                "progressive trance"
+                "retro soul"
             ],
             "top_tracks": [
-                "Euphoria (with Alok) [ASOT 1213] - Richard Durand Remix",
-                "Euphoria (with Alok) [ASOT 1216] - Richard Durand Remix",
-                "About A Love",
-                "Euphoria (with Alok) [ASOT 1215] - Richard Durand Remix",
-                "Nebula",
-                "Here I Am - Richard Durand Remix",
-                "The Air I Breathe - Adaro Remix",
-                "Sugarphoria",
-                "State of Bliss",
-                "Wildcard"
-            ]
+                "Sea Gets Hotter",
+                "Witchoo",
+                "Is It Any Wonder?",
+                "The Way That I Do",
+                "Cruisin to the Park",
+                "Been So Long",
+                "Love Will Work It Out",
+                "Circles",
+                "Too Many Tears",
+                "Ride or Die"
+            ],
+            "popularity_score": 62
         },
         {
             "name": "Reinier Zonneveld",
@@ -1619,15 +1703,16 @@
             "top_tracks": [
                 "Dance With The Devil (The 6th Gate) (Reinier Zonneveld Remix)",
                 "Tokyo",
-                "Move Your Body To The Beat",
                 "Inferno",
+                "Move Your Body To The Beat",
                 "Just Wanna Dance",
                 "Mom Was On Tequila",
                 "Flying Octopus",
                 "Fist On Acid (Techno Mix)",
                 "Hard Kicks Cheap Thrills",
-                "Der Club macht Liebe"
-            ]
+                "Judgement Day"
+            ],
+            "popularity_score": 54
         },
         {
             "name": "Ricky Retro",
@@ -1643,14 +1728,14 @@
                 "in my rik",
                 "Sweet but Psycho - Ricky Retro Remix",
                 "cocaine cowboy"
-            ]
+            ],
+            "popularity_score": 34
         },
         {
             "name": "RL Grime",
             "genres": [
                 "edm trap",
-                "future bass",
-                "edm"
+                "future bass"
             ],
             "top_tracks": [
                 "UCLA",
@@ -1663,17 +1748,29 @@
                 "Core",
                 "Formula",
                 "Stay For It"
-            ]
+            ],
+            "popularity_score": 62
         },
         {
             "name": "Roadhouse",
-            "genres": [],
+            "genres": [
+                "blues rock",
+                "blues",
+                "modern blues"
+            ],
             "top_tracks": [
-                "One Big Country Song (RoadHouse Remix)",
-                "Talking With Our Hands (feat. Jimmie Allen)",
-                "No Peace (feat. Raelynn)",
-                "Reckless Kids (feat. ODELL)"
-            ]
+                "While My Guitar Gently Weeps",
+                "Angel Eyes - Album Edit",
+                "When The Night Comes Falling From The Sky",
+                "Angel Eyes",
+                "Blue Jean Blues",
+                "Stuck In The Middle With You",
+                "Hoochie Coochie Man",
+                "Confidence Man",
+                "See the Light",
+                "Angel Eyes - Single Remix"
+            ],
+            "popularity_score": 45
         },
         {
             "name": "Roger Sanchez",
@@ -1689,10 +1786,11 @@
                 "Another Chance",
                 "Make You Mine",
                 "Again - Roger\u2019s 12 Inch Mix",
-                "Again - Edit",
                 "Dream On Me - Roger Sanchez Remix",
+                "Again - Edit",
                 "Alma Roja - DJ Chus Remix"
-            ]
+            ],
+            "popularity_score": 54
         },
         {
             "name": "Rooler",
@@ -1714,7 +1812,8 @@
                 "DISCOTEK",
                 "TOO ANGRY",
                 "CLUB BANGER"
-            ]
+            ],
+            "popularity_score": 60
         },
         {
             "name": "Rossy",
@@ -1726,15 +1825,16 @@
             "top_tracks": [
                 "KARMA (With Jazz Cartier)",
                 "HOLY",
+                "RUSH",
                 "HEAVENS DOOR",
                 "DON'T SAY - Hex Cougar Remix",
                 "SHOWOFF",
                 "DEITY",
-                "RUSH",
                 "DEITY - Lightyear Remix",
                 "STAR (feat. Princess Superstar)",
                 "LYRA"
-            ]
+            ],
+            "popularity_score": 29
         },
         {
             "name": "Sabai",
@@ -1754,7 +1854,8 @@
                 "Me + You",
                 "I Miss You",
                 "Million Days - Acoustic"
-            ]
+            ],
+            "popularity_score": 53
         },
         {
             "name": "Said The Sky",
@@ -1775,7 +1876,8 @@
                 "In The End",
                 "All I Got",
                 "Sad Songs (with Said The Sky & Annika Wells)"
-            ]
+            ],
+            "popularity_score": 56
         },
         {
             "name": "Sam Binga",
@@ -1785,6 +1887,7 @@
                 "drum and bass",
                 "drumstep",
                 "breakbeat",
+                "footwork",
                 "bassline",
                 "uk funky"
             ],
@@ -1796,10 +1899,11 @@
                 "Don't Stress",
                 "Block & Delete (Edit)",
                 "How It Goes",
+                "Bring A Friend",
                 "Dem Boiz",
-                "Hypn\u00f8",
-                "Bring A Friend"
-            ]
+                "Hypn\u00f8"
+            ],
+            "popularity_score": 35
         },
         {
             "name": "Samplifire",
@@ -1820,7 +1924,8 @@
                 "MELLOFIRE",
                 "PUNCH",
                 "GOOME"
-            ]
+            ],
+            "popularity_score": 46
         },
         {
             "name": "San Pacho",
@@ -1835,14 +1940,15 @@
                 "Trompeta",
                 "Horny",
                 "Amor",
-                "Voy",
                 "Playboy",
+                "Voy",
                 "La Pasion",
                 "Tequila",
                 "Taka",
                 "No Guest List",
                 "Cha Cha Cha"
-            ]
+            ],
+            "popularity_score": 51
         },
         {
             "name": "Seven Lions",
@@ -1856,16 +1962,17 @@
             ],
             "top_tracks": [
                 "Strangers",
-                "Not Even Love",
                 "First Time (feat. Dylan Matthew)",
+                "Not Even Love",
                 "Need Your Love (with Noah Kahan)",
                 "Rush Over Me (feat. HALIENE)",
-                "Light In The Dark - Cyclops Remix",
+                "Pantheon II",
                 "Another Me (with Dylan Matthew)",
-                "I'll Wait For You",
+                "Light In The Dark - Cyclops Remix",
                 "Freesol",
-                "Island (feat. Nevve)"
-            ]
+                "I'll Wait For You"
+            ],
+            "popularity_score": 60
         },
         {
             "name": "Ship Wrek",
@@ -1880,11 +1987,12 @@
                 "Need It",
                 "Where Do I Belong?",
                 "Only A Fool (with Pink Sweat$)",
-                "F*CK THAT",
                 "Silent",
+                "F*CK THAT",
                 "Stimulate",
                 "Jerk It Out"
-            ]
+            ],
+            "popularity_score": 51
         },
         {
             "name": "Showtek",
@@ -1904,8 +2012,9 @@
                 "Sun Goes Down (feat. MAGIC! & Sonny Wilson)",
                 "We Like to Party - Original Mix",
                 "Luvstruck",
-                "Nighttrain"
-            ]
+                "Believer"
+            ],
+            "popularity_score": 62
         },
         {
             "name": "Sota",
@@ -1915,8 +2024,8 @@
             ],
             "top_tracks": [
                 "Round + Round",
-                "Sientelo - Sota & Circadian Remix",
                 "Machete - A.M.C Remix",
+                "Sientelo - Sota & Circadian Remix",
                 "Realise",
                 "Satellite - SOTA Remix",
                 "See The Sun",
@@ -1924,7 +2033,8 @@
                 "Wait For Me",
                 "Mesmer",
                 "Another World"
-            ]
+            ],
+            "popularity_score": 45
         },
         {
             "name": "Space92",
@@ -1941,11 +2051,12 @@
                 "Offbeat",
                 "Planet X",
                 "Colonia",
-                "New Generation - Space 92 Remix",
                 "Gravity",
+                "New Generation - Space 92 Remix",
                 "Reasons to Love You - Space 92 Remix",
                 "Robot"
-            ]
+            ],
+            "popularity_score": 54
         },
         {
             "name": "Supergloss",
@@ -1961,7 +2072,8 @@
                 "Cyber Skin",
                 "Visual Freak",
                 "Meat Shop - Original Mix"
-            ]
+            ],
+            "popularity_score": 18
         },
         {
             "name": "Svdden Death",
@@ -1984,7 +2096,8 @@
                 "Confusion Spell",
                 "Triumphant",
                 "Vortexblade"
-            ]
+            ],
+            "popularity_score": 52
         },
         {
             "name": "Taylor Kade",
@@ -1999,11 +2112,12 @@
                 "Hurt No More - Taylor Kade Remix",
                 "Off to the Races - Taylor Kade Remix",
                 "Want U Back",
-                "Rock Bottom",
                 "Love You Like That - Xavi Remix",
+                "Rock Bottom",
                 "Lonely",
                 "Up Until The Light"
-            ]
+            ],
+            "popularity_score": 31
         },
         {
             "name": "Teko",
@@ -2019,7 +2133,8 @@
                 "Best Thang Out Chea",
                 "Piano Love",
                 "No Other"
-            ]
+            ],
+            "popularity_score": 9
         },
         {
             "name": "Timmy Trumpet",
@@ -2038,7 +2153,8 @@
                 "Party Till We Die (feat. Andrew W.K.)",
                 "Time To Say Goodbye",
                 "All The Small Things"
-            ]
+            ],
+            "popularity_score": 72
         },
         {
             "name": "Tita Lau",
@@ -2056,7 +2172,8 @@
                 "B2B",
                 "What Is Real",
                 "To L.A"
-            ]
+            ],
+            "popularity_score": 46
         },
         {
             "name": "Tony Junior",
@@ -2075,7 +2192,8 @@
                 "Get Down",
                 "Dat Heb Jij Gedaan - Hardstyle Edit",
                 "Immortal (We Live Forever)"
-            ]
+            ],
+            "popularity_score": 49
         },
         {
             "name": "Valentino Khan",
@@ -2092,10 +2210,11 @@
                 "Better",
                 "Your Body",
                 "Swish Swish - Valentino Khan Remix",
-                "Lick It",
                 "Pony",
+                "Lick It",
                 "Freakquency"
-            ]
+            ],
+            "popularity_score": 52
         },
         {
             "name": "Vangar",
@@ -2107,10 +2226,11 @@
                 "Mind Killer",
                 "Digital Playground",
                 "Digital Playground - Extended Mix",
-                "Spark Plug - Extended Mix",
                 "Dual Resonance",
+                "Spark Plug - Extended Mix",
                 "Spark Plug - Mix Cut"
-            ]
+            ],
+            "popularity_score": 5
         },
         {
             "name": "VOID",
@@ -2129,7 +2249,8 @@
                 "Eviljordan",
                 "Come Tip Her - Extended Mix",
                 "TUKATU - Original Mix"
-            ]
+            ],
+            "popularity_score": 16
         },
         {
             "name": "Walker & Royce",
@@ -2146,10 +2267,11 @@
                 "I Don't Remember",
                 "Stop Time",
                 "Not About You",
-                "Motivashun",
                 "Rave Grave",
+                "Motivashun",
                 "Role Models (feat. OnCue)"
-            ]
+            ],
+            "popularity_score": 48
         },
         {
             "name": "VNSSA",
@@ -2162,13 +2284,14 @@
                 "I Don't Remember",
                 "Rave Grave",
                 "WORD",
-                "Grindhouse",
-                "Gone - VNSSA Remix",
                 "The Biznes",
+                "Grindhouse",
                 "These Notes In This Order - VNSSA Remix",
                 "Skin",
+                "Gone - VNSSA Remix",
                 "WORD - Chris Lorenzo Remix"
-            ]
+            ],
+            "popularity_score": 36
         },
         {
             "name": "Wax Motif",
@@ -2183,12 +2306,13 @@
                 "Fly Kicks - Wax Motif Remix",
                 "Choose Violence",
                 "On The Low",
-                "Issa Vibe",
                 "Skank N Flex (with Scrufizzer)",
+                "Issa Vibe",
                 "Lo Que Soy",
                 "Keep Raving",
                 "Bump Bump Bump (Bom Bom)"
-            ]
+            ],
+            "popularity_score": 51
         },
         {
             "name": "Westend",
@@ -2208,7 +2332,8 @@
                 "Maracuya",
                 "Lovers In A Past Life (with Rag'n'Bone Man) - Westend Remix",
                 "Dive In (feat. Notelle)"
-            ]
+            ],
+            "popularity_score": 57
         },
         {
             "name": "WHIPPED CREAM",
@@ -2224,7 +2349,8 @@
                 "real 4 me - BKAYE VIP",
                 "CRY",
                 "Techno Is My Only Love"
-            ]
+            ],
+            "popularity_score": 51
         },
         {
             "name": "Whoo Kid",
@@ -2233,12 +2359,13 @@
                 "Intro",
                 "Obama Intro",
                 "Slingin Night N Day",
-                "Ron Paul Legalizing Heroin Skit",
                 "Overdose Skit",
+                "Ron Paul Legalizing Heroin Skit",
                 "Burning Drugs Outro",
                 "Problems",
                 "Governor Arnold Schwarzenegger Admits He Smokes Skit"
-            ]
+            ],
+            "popularity_score": 2
         },
         {
             "name": "William Black",
@@ -2255,10 +2382,11 @@
                 "Broken",
                 "Butterflies",
                 "Deep Blue",
-                "Would You Even Know",
                 "Take Me",
+                "Would You Even Know",
                 "All Falls Down"
-            ]
+            ],
+            "popularity_score": 54
         },
         {
             "name": "With L\u00f8ve",
@@ -2273,11 +2401,12 @@
                 "Me + You - With L\u00f8ve Remix",
                 "Hydroplane (Remix)",
                 "I Won't Miss You Forever",
-                "Too Late",
                 "So Long",
+                "Too Late",
                 "Never Going Home",
                 "Reject"
-            ]
+            ],
+            "popularity_score": 34
         },
         {
             "name": "Wooli",
@@ -2291,17 +2420,18 @@
                 "bass music"
             ],
             "top_tracks": [
+                "Lock In",
                 "Zombie (feat. Valerie Broussard)",
                 "Dopamine",
                 "Hallelujah",
                 "Rapid Fire",
-                "Light In The Dark - Cyclops Remix",
                 "On Repeat",
                 "Another Me (with Dylan Matthew)",
-                "Into Pieces - Wooli x Grabbitz Remix",
+                "Light In The Dark - Cyclops Remix",
                 "Island (feat. Nevve)",
-                "Don't Look Down (Hold On)"
-            ]
+                "Into Pieces - Wooli x Grabbitz Remix"
+            ],
+            "popularity_score": 58
         },
         {
             "name": "Wuki",
@@ -2317,7 +2447,8 @@
                 "Sunshine (My Girl) - Galantis Reshine",
                 "Sunshine (My Girl) - Sofi Tukker Remix",
                 "We Like To Wuki"
-            ]
+            ],
+            "popularity_score": 60
         },
         {
             "name": "Yellow Claw",
@@ -2336,7 +2467,8 @@
                 "LSD",
                 "Love & War",
                 "Slow Down"
-            ]
+            ],
+            "popularity_score": 63
         },
         {
             "name": "Yosuf",
@@ -2354,7 +2486,8 @@
                 "Love",
                 "Tren 200mg",
                 "Winstrol"
-            ]
+            ],
+            "popularity_score": 52
         },
         {
             "name": "Zeds Dead",
@@ -2366,14 +2499,15 @@
                 "One Of These Mornings",
                 "Sweet Memories",
                 "Vertigo",
-                "Heartbeat",
-                "One Three Nine",
                 "Eyes on Fire - Zeds Dead Remix",
-                "Alive",
+                "One Three Nine",
+                "Heartbeat",
                 "Fall Away",
+                "Alive",
                 "Light",
                 "Neck And Neck - DNMO Remix"
-            ]
+            ],
+            "popularity_score": 65
         },
         {
             "name": "Zorza",
@@ -2393,7 +2527,8 @@
                 "Wordz",
                 "FEMININE ENERGY (Zorza Adrenaline Mix)",
                 "Ashes 2 Dust"
-            ]
+            ],
+            "popularity_score": 32
         }
     ]
 }
